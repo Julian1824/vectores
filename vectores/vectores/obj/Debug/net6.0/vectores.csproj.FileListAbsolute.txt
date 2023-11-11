@@ -1,0 +1,15 @@
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\bin\Debug\net6.0\vectores.exe
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\bin\Debug\net6.0\vectores.deps.json
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\bin\Debug\net6.0\vectores.runtimeconfig.json
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\bin\Debug\net6.0\vectores.dll
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\bin\Debug\net6.0\vectores.pdb
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.csproj.AssemblyReference.cache
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.AssemblyInfoInputs.cache
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.AssemblyInfo.cs
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.csproj.CoreCompileInputs.cache
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.dll
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\refint\vectores.dll
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.pdb
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\vectores.genruntimeconfig.cache
+C:\Users\JulianBS\Desktop\vectores\vectores\vectores\obj\Debug\net6.0\ref\vectores.dll
